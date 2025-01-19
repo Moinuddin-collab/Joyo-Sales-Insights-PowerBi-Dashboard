@@ -5,4 +5,5 @@ JOYO hardware is a company which delivers computer hardware & peripheral Manufac
 # Solution
 Sales director of the JOYO hardware, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. So, he hired a team of data people to complete this task.
 
-Live Dashboard Link
+Live Dashboard Link- 
+https://app.powerbi.com/groups/me/reports/801adcc7-4544-4ee6-aa8d-cf0a055d8b13/ReportSection?experience=power-bi
